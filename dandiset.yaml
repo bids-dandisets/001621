@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.10/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -19,9 +20,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 2918431163
-  numberOfFiles: 85
-  numberOfSubjects: 33
+  numberOfBytes: 2920684185
+  numberOfFiles: 86
+  numberOfSubjects: 34
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -43,7 +44,10 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2025-10-06T17:46:55.595727+00:00'
-description: Image Data for SCA3 peripheral neuropathy paper
+description: Raw image files of peripheral neuropathology in SCA3 mouse models and
+  Cre model validation studies. These data were acquired using basic light microscopy,
+  immunofluorescence confocal microscopy, and Western Blots.
+ethicsApproval: []
 id: DANDI:001621/draft
 identifier: DANDI:001621
 license:
@@ -52,8 +56,10 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001621/versions/draft/assets/
 name: Establishing Sensory Neurons as Therapeutic Targets in Peripheral Neuropathy
   Driven by Polyglutamine Expanded ATXN3
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
 url: https://dandiarchive.org/dandiset/001621/draft
 version: draft
+wasGeneratedBy: []

@@ -39,6 +39,8 @@
 ],
 "dateModified":
 "2025-11-26T12:46:42.999160-05:00",
+"datePublished":
+"2025-12-08T00:08:20.321597+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -69,6 +71,34 @@
 ],
 "path":
 "sub-KI/sub-KI_ses-IEFD 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.321597+00:00",
+"id":
+"urn:uuid:76bf321b-b817-4cf8-bfca-d2654b5fb70c",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.321597+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:16e2f00f-e2a3-4fcf-bfe7-6d854d0af57e",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -183,7 +213,7 @@
 ]
 },
 "modified":
-"2025-11-26T17:46:44.685921Z",
+"2025-12-08T00:08:20.324404Z",
 "path":
 "sub-KI/sub-KI_ses-IEFD 1_ophys.nwb",
 "size":
@@ -229,6 +259,8 @@
 ],
 "dateModified":
 "2025-11-26T12:55:23.560818-05:00",
+"datePublished":
+"2025-12-08T00:08:20.332805+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -259,6 +291,34 @@
 ],
 "path":
 "sub-KI/sub-KI_ses-IEFD 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.332805+00:00",
+"id":
+"urn:uuid:71e3efc9-21e8-4ca1-8c07-951f2201f502",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.332805+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:2707866b-04ff-4566-9c68-00a429eeb459",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -373,7 +433,7 @@
 ]
 },
 "modified":
-"2025-11-26T17:55:24.992614Z",
+"2025-12-08T00:08:20.335406Z",
 "path":
 "sub-KI/sub-KI_ses-IEFD 2_ophys.nwb",
 "size":
@@ -419,6 +479,8 @@
 ],
 "dateModified":
 "2025-12-07T13:36:33.667362-05:00",
+"datePublished":
+"2025-12-08T00:08:20.364658+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -449,6 +511,34 @@
 ],
 "path":
 "sub-KI/sub-KI_ses-IEFD 3_obj-16qibz9_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.364658+00:00",
+"id":
+"urn:uuid:68918a8c-7a1c-4387-a91a-cccffa8b671c",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.364658+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:7dcee39e-82f8-49c2-ac0d-6eea190212d0",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -563,7 +653,7 @@
 ]
 },
 "modified":
-"2025-12-07T18:36:41.625628Z",
+"2025-12-08T00:08:20.367335Z",
 "path":
 "sub-KI/sub-KI_ses-IEFD 3_obj-16qibz9_ophys.nwb",
 "size":
@@ -609,6 +699,8 @@
 ],
 "dateModified":
 "2025-12-01T11:40:34.270336-05:00",
+"datePublished":
+"2025-12-08T00:08:20.341551+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -639,6 +731,34 @@
 ],
 "path":
 "sub-KI/sub-KI_ses-IEFD 4_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.341551+00:00",
+"id":
+"urn:uuid:1410c0a9-b1ef-42d5-9540-a9b171f9d172",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.341551+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:e64801d9-fa66-4275-861c-b6a44062877a",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -753,7 +873,7 @@
 ]
 },
 "modified":
-"2025-12-01T16:40:35.986355Z",
+"2025-12-08T00:08:20.343941Z",
 "path":
 "sub-KI/sub-KI_ses-IEFD 4_ophys.nwb",
 "size":
@@ -799,6 +919,8 @@
 ],
 "dateModified":
 "2025-12-01T11:44:07.011575-05:00",
+"datePublished":
+"2025-12-08T00:08:20.349337+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -829,6 +951,34 @@
 ],
 "path":
 "sub-KI/sub-KI_ses-IEFD 5_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.349337+00:00",
+"id":
+"urn:uuid:5d27f3f3-817b-4104-ac09-f8e8304e1dd5",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.349337+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:86eb180e-89a6-410f-ad7f-318434bc231b",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -943,7 +1093,7 @@
 ]
 },
 "modified":
-"2025-12-01T16:44:08.431535Z",
+"2025-12-08T00:08:20.351754Z",
 "path":
 "sub-KI/sub-KI_ses-IEFD 5_ophys.nwb",
 "size":
@@ -989,6 +1139,8 @@
 ],
 "dateModified":
 "2025-12-07T16:31:34.993382-05:00",
+"datePublished":
+"2025-12-08T00:08:20.493863+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -1019,6 +1171,34 @@
 ],
 "path":
 "sub-KO/sub-KO_ses-IEFD 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.493863+00:00",
+"id":
+"urn:uuid:e8782563-f836-46e3-bf6f-b7652dbf7933",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.493863+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:7d0c5397-5f53-4d7f-8ecb-ed2152f579cf",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -1133,7 +1313,7 @@
 ]
 },
 "modified":
-"2025-12-07T21:31:47.591407Z",
+"2025-12-08T00:08:20.496355Z",
 "path":
 "sub-KO/sub-KO_ses-IEFD 1_ophys.nwb",
 "size":
@@ -1179,6 +1359,8 @@
 ],
 "dateModified":
 "2025-12-07T16:36:31.574193-05:00",
+"datePublished":
+"2025-12-08T00:08:20.515570+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -1209,6 +1391,34 @@
 ],
 "path":
 "sub-KO/sub-KO_ses-IEFD 2_obj-1l5tncd_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.515570+00:00",
+"id":
+"urn:uuid:4cae268a-35dc-403b-865e-38f447663f17",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.515570+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:61e5b0e7-d9c6-42c8-827a-6aa7404a2a17",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -1323,7 +1533,7 @@
 ]
 },
 "modified":
-"2025-12-07T21:36:39.221642Z",
+"2025-12-08T00:08:20.518843Z",
 "path":
 "sub-KO/sub-KO_ses-IEFD 2_obj-1l5tncd_ophys.nwb",
 "size":
@@ -1369,6 +1579,8 @@
 ],
 "dateModified":
 "2025-12-07T16:34:52.520839-05:00",
+"datePublished":
+"2025-12-08T00:08:20.505613+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -1399,6 +1611,34 @@
 ],
 "path":
 "sub-KO/sub-KO_ses-IEFD 2_obj-3mehpf_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.505613+00:00",
+"id":
+"urn:uuid:9a9adc0f-3f42-412a-b8dc-b5473b784776",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.505613+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:4e9ab487-a296-42e0-b9dc-a067f4aaf4a0",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -1513,7 +1753,7 @@
 ]
 },
 "modified":
-"2025-12-07T21:35:00.875435Z",
+"2025-12-08T00:08:20.509120Z",
 "path":
 "sub-KO/sub-KO_ses-IEFD 2_obj-3mehpf_ophys.nwb",
 "size":
@@ -1559,6 +1799,8 @@
 ],
 "dateModified":
 "2025-12-07T16:24:50.770496-05:00",
+"datePublished":
+"2025-12-08T00:08:20.484801+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -1589,6 +1831,34 @@
 ],
 "path":
 "sub-KO/sub-KO_ses-IEFD 2_obj-nfif6m_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.484801+00:00",
+"id":
+"urn:uuid:7a41ad10-59c0-4637-860f-682b9301f490",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.484801+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:ed3a116b-cdd2-482f-aceb-63ca62040a4f",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -1703,7 +1973,7 @@
 ]
 },
 "modified":
-"2025-12-07T21:25:05.293458Z",
+"2025-12-08T00:08:20.487506Z",
 "path":
 "sub-KO/sub-KO_ses-IEFD 2_obj-nfif6m_ophys.nwb",
 "size":
@@ -1749,6 +2019,8 @@
 ],
 "dateModified":
 "2025-12-01T11:54:32.516925-05:00",
+"datePublished":
+"2025-12-08T00:08:20.357174+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -1779,6 +2051,34 @@
 ],
 "path":
 "sub-KO/sub-KO_ses-IEFD 2_obj-r4kaq0_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.357174+00:00",
+"id":
+"urn:uuid:0bf462f9-08e9-4d3b-8670-a5604124be02",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.357174+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:d37f71fc-16b6-430a-915f-2dbe3d244228",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -1893,7 +2193,7 @@
 ]
 },
 "modified":
-"2025-12-01T16:54:34.148589Z",
+"2025-12-08T00:08:20.359578Z",
 "path":
 "sub-KO/sub-KO_ses-IEFD 2_obj-r4kaq0_ophys.nwb",
 "size":
@@ -1939,6 +2239,8 @@
 ],
 "dateModified":
 "2025-12-07T17:17:36.432565-05:00",
+"datePublished":
+"2025-12-08T00:08:20.525229+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -1969,6 +2271,34 @@
 ],
 "path":
 "sub-MouseIDs/sub-MouseIDs_ses-Spreadsheet_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.525229+00:00",
+"id":
+"urn:uuid:c4cad7f9-67f2-4016-84f6-1b4aea011f7d",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.525229+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:46b31c1e-f4a4-4d26-87fa-f4d788da1df4",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -2083,7 +2413,7 @@
 ]
 },
 "modified":
-"2025-12-07T22:17:39.645121Z",
+"2025-12-08T00:08:20.528579Z",
 "path":
 "sub-MouseIDs/sub-MouseIDs_ses-Spreadsheet_ophys.nwb",
 "size":
@@ -2129,6 +2459,8 @@
 ],
 "dateModified":
 "2025-12-07T16:15:07.616794-05:00",
+"datePublished":
+"2025-12-08T00:08:20.475934+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -2159,6 +2491,34 @@
 ],
 "path":
 "sub-Western-Blots/sub-Western-Blots_ses-CreValidation_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.475934+00:00",
+"id":
+"urn:uuid:b515b508-90a1-482b-988e-7bb40b542dd8",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.475934+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:a4de1ff5-d42b-42ca-91a0-fffd1fe9a4aa",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -2273,7 +2633,7 @@
 ]
 },
 "modified":
-"2025-12-07T21:15:13.910556Z",
+"2025-12-08T00:08:20.478878Z",
 "path":
 "sub-Western-Blots/sub-Western-Blots_ses-CreValidation_ophys.nwb",
 "size":
@@ -2319,6 +2679,8 @@
 ],
 "dateModified":
 "2025-11-25T10:57:47.716482-05:00",
+"datePublished":
+"2025-12-08T00:08:20.046819+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -2349,6 +2711,34 @@
 ],
 "path":
 "sub-b433-5/sub-b433-5_ses-DRG 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.046819+00:00",
+"id":
+"urn:uuid:5863898c-3128-4e0a-8f04-66aa0a0502cd",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.046819+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:bb247a8a-fb83-400e-8f9f-5ea7fe0da4a5",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -2465,7 +2855,7 @@
 ]
 },
 "modified":
-"2025-11-25T15:57:49.518082Z",
+"2025-12-08T00:08:20.049511Z",
 "path":
 "sub-b433-5/sub-b433-5_ses-DRG 1H9 1_ophys.nwb",
 "size":
@@ -2511,6 +2901,8 @@
 ],
 "dateModified":
 "2025-11-24T16:25:13.928979-05:00",
+"datePublished":
+"2025-12-08T00:08:19.944497+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -2541,6 +2933,34 @@
 ],
 "path":
 "sub-b433-5/sub-b433-5_ses-DRG 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.944497+00:00",
+"id":
+"urn:uuid:f16031ff-6c6f-48d3-9ed3-4cf71632d145",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.944497+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:cd9985d7-611a-4c33-b28c-cba2b1119f4d",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -2657,7 +3077,7 @@
 ]
 },
 "modified":
-"2025-11-24T21:25:15.454573Z",
+"2025-12-08T00:08:19.946724Z",
 "path":
 "sub-b433-5/sub-b433-5_ses-DRG 1H9 2_ophys.nwb",
 "size":
@@ -2703,6 +3123,8 @@
 ],
 "dateModified":
 "2025-11-24T14:50:47.779885-05:00",
+"datePublished":
+"2025-12-08T00:08:19.817889+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -2733,6 +3155,34 @@
 ],
 "path":
 "sub-b433-5/sub-b433-5_ses-Sciatic 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.817889+00:00",
+"id":
+"urn:uuid:29022b60-5172-4516-a685-a11545582b88",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.817889+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:dca1f210-ae9c-4f10-add3-2a0551ea6007",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -2849,7 +3299,7 @@
 ]
 },
 "modified":
-"2025-11-24T19:50:49.301841Z",
+"2025-12-08T00:08:19.820536Z",
 "path":
 "sub-b433-5/sub-b433-5_ses-Sciatic 1H9 1_ophys.nwb",
 "size":
@@ -2895,6 +3345,8 @@
 ],
 "dateModified":
 "2025-11-24T14:53:22.950034-05:00",
+"datePublished":
+"2025-12-08T00:08:19.829349+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -2925,6 +3377,34 @@
 ],
 "path":
 "sub-b433-5/sub-b433-5_ses-Sciatic 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.829349+00:00",
+"id":
+"urn:uuid:88745b28-7e7f-4a3a-bf3a-b999d74cef0f",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.829349+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:f0da93d4-460d-490f-a5ba-68bc27ae9dd0",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -3041,7 +3521,7 @@
 ]
 },
 "modified":
-"2025-11-24T19:53:24.445708Z",
+"2025-12-08T00:08:19.831644Z",
 "path":
 "sub-b433-5/sub-b433-5_ses-Sciatic 1H9 2_ophys.nwb",
 "size":
@@ -3087,6 +3567,8 @@
 ],
 "dateModified":
 "2025-11-26T11:11:23.327679-05:00",
+"datePublished":
+"2025-12-08T00:08:20.300461+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -3117,6 +3599,34 @@
 ],
 "path":
 "sub-b433-5/sub-b433-5_ses-SpinalCord 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.300461+00:00",
+"id":
+"urn:uuid:626e66c3-ef47-41bf-8751-c4b5edaff340",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.300461+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:7f94d929-5781-4bcd-93f8-47fb9ed6d0a2",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -3233,7 +3743,7 @@
 ]
 },
 "modified":
-"2025-11-26T16:11:34.454074Z",
+"2025-12-08T00:08:20.302878Z",
 "path":
 "sub-b433-5/sub-b433-5_ses-SpinalCord 1H9 1_ophys.nwb",
 "size":
@@ -3279,6 +3789,8 @@
 ],
 "dateModified":
 "2025-11-25T11:53:16.473652-05:00",
+"datePublished":
+"2025-12-08T00:08:20.117820+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -3309,6 +3821,34 @@
 ],
 "path":
 "sub-b485-5/sub-b485-5_ses-Sural 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.117820+00:00",
+"id":
+"urn:uuid:5044e3e8-6c30-4bf8-892b-a760b5a566ba",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.117820+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:c0fb71ff-f4cd-4f86-a6ad-486066d50364",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -3425,7 +3965,7 @@
 ]
 },
 "modified":
-"2025-11-25T16:53:17.680227Z",
+"2025-12-08T00:08:20.120156Z",
 "path":
 "sub-b485-5/sub-b485-5_ses-Sural 1_ophys.nwb",
 "size":
@@ -3471,6 +4011,8 @@
 ],
 "dateModified":
 "2025-11-25T11:54:46.459321-05:00",
+"datePublished":
+"2025-12-08T00:08:20.125160+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -3501,6 +4043,34 @@
 ],
 "path":
 "sub-b485-5/sub-b485-5_ses-Sural 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.125160+00:00",
+"id":
+"urn:uuid:ded515f5-4ace-4f92-b0b8-c8b177b77500",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.125160+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:a26676f1-b7f8-4039-b82d-b36aef92281d",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -3617,7 +4187,7 @@
 ]
 },
 "modified":
-"2025-11-25T16:54:47.780295Z",
+"2025-12-08T00:08:20.127309Z",
 "path":
 "sub-b485-5/sub-b485-5_ses-Sural 2_ophys.nwb",
 "size":
@@ -3663,6 +4233,8 @@
 ],
 "dateModified":
 "2025-11-25T11:56:19.598167-05:00",
+"datePublished":
+"2025-12-08T00:08:20.132259+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -3693,6 +4265,34 @@
 ],
 "path":
 "sub-b485-5/sub-b485-5_ses-Sural 3_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.132259+00:00",
+"id":
+"urn:uuid:5221919a-fd1e-46cc-9bbe-c02841786f5b",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.132259+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:f26e84b2-8d77-4ad1-9337-1957385777a7",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -3809,7 +4409,7 @@
 ]
 },
 "modified":
-"2025-11-25T16:56:20.806903Z",
+"2025-12-08T00:08:20.134313Z",
 "path":
 "sub-b485-5/sub-b485-5_ses-Sural 3_ophys.nwb",
 "size":
@@ -3855,6 +4455,8 @@
 ],
 "dateModified":
 "2025-11-25T09:35:11.522353-05:00",
+"datePublished":
+"2025-12-08T00:08:19.967489+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -3885,6 +4487,34 @@
 ],
 "path":
 "sub-b490-0/sub-b490-0_ses-DRG 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.967489+00:00",
+"id":
+"urn:uuid:178b8e82-eb01-482d-8157-242325f2cf6f",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.967489+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:79e4e22e-ea5a-4f56-a633-1edac9994362",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -4001,7 +4631,7 @@
 ]
 },
 "modified":
-"2025-11-25T14:35:13.032419Z",
+"2025-12-08T00:08:19.969837Z",
 "path":
 "sub-b490-0/sub-b490-0_ses-DRG 1H9 1_ophys.nwb",
 "size":
@@ -4047,6 +4677,8 @@
 ],
 "dateModified":
 "2025-11-25T09:46:22.934420-05:00",
+"datePublished":
+"2025-12-08T00:08:19.974785+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -4077,6 +4709,34 @@
 ],
 "path":
 "sub-b490-0/sub-b490-0_ses-DRH 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.974785+00:00",
+"id":
+"urn:uuid:aecf9b4e-bcc6-40a8-acdd-5ea0343f09ce",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.974785+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:ca48b387-2e20-4238-b793-c8634a15cde0",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -4193,7 +4853,7 @@
 ]
 },
 "modified":
-"2025-11-25T14:46:24.337825Z",
+"2025-12-08T00:08:19.976993Z",
 "path":
 "sub-b490-0/sub-b490-0_ses-DRH 1H9 2_ophys.nwb",
 "size":
@@ -4239,6 +4899,8 @@
 ],
 "dateModified":
 "2025-11-24T15:04:32.644630-05:00",
+"datePublished":
+"2025-12-08T00:08:19.836643+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -4269,6 +4931,34 @@
 ],
 "path":
 "sub-b490-0/sub-b490-0_ses-Sciatic 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.836643+00:00",
+"id":
+"urn:uuid:282399d7-7514-4b6e-a0ee-1a414568ca41",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.836643+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:b6667eaa-edd5-432b-841f-f51c4d82fa1b",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -4385,7 +5075,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:04:34.247855Z",
+"2025-12-08T00:08:19.838753Z",
 "path":
 "sub-b490-0/sub-b490-0_ses-Sciatic 1H9 1_ophys.nwb",
 "size":
@@ -4431,6 +5121,8 @@
 ],
 "dateModified":
 "2025-11-24T15:06:50.107330-05:00",
+"datePublished":
+"2025-12-08T00:08:19.843600+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -4461,6 +5153,34 @@
 ],
 "path":
 "sub-b490-0/sub-b490-0_ses-Sciatic 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.843600+00:00",
+"id":
+"urn:uuid:810c4ee1-6362-410c-bcfc-a3e1254fe0d2",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.843600+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:725b9709-3c0b-425b-b925-c3e809c86c98",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -4577,7 +5297,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:06:51.777664Z",
+"2025-12-08T00:08:19.845825Z",
 "path":
 "sub-b490-0/sub-b490-0_ses-Sciatic 1H9 2_ophys.nwb",
 "size":
@@ -4623,6 +5343,8 @@
 ],
 "dateModified":
 "2025-11-26T10:07:23.734575-05:00",
+"datePublished":
+"2025-12-08T00:08:20.269575+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -4653,6 +5375,34 @@
 ],
 "path":
 "sub-b490-0/sub-b490-0_ses-SpinalCord 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.269575+00:00",
+"id":
+"urn:uuid:529b8b6f-7845-446f-8611-d981470a55e1",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.269575+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:2cc1e010-cc36-4d27-b7bd-18d07c5965f9",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -4769,7 +5519,7 @@
 ]
 },
 "modified":
-"2025-11-26T15:07:31.948628Z",
+"2025-12-08T00:08:20.272293Z",
 "path":
 "sub-b490-0/sub-b490-0_ses-SpinalCord 1H9 1_ophys.nwb",
 "size":
@@ -4815,6 +5565,8 @@
 ],
 "dateModified":
 "2025-11-25T10:59:31.980644-05:00",
+"datePublished":
+"2025-12-08T00:08:20.054718+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -4845,6 +5597,34 @@
 ],
 "path":
 "sub-b490-1/sub-b490-1_ses-Sciatic 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.054718+00:00",
+"id":
+"urn:uuid:761e2c2e-77b4-488d-aac1-6b6e1ceaaecd",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.054718+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:f63c560e-33e6-44b0-ae53-6b4257f3b970",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -4961,7 +5741,7 @@
 ]
 },
 "modified":
-"2025-11-25T15:59:33.587562Z",
+"2025-12-08T00:08:20.056997Z",
 "path":
 "sub-b490-1/sub-b490-1_ses-Sciatic 1H9 1_ophys.nwb",
 "size":
@@ -5007,6 +5787,8 @@
 ],
 "dateModified":
 "2025-11-24T15:15:45.328679-05:00",
+"datePublished":
+"2025-12-08T00:08:19.850936+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -5037,6 +5819,34 @@
 ],
 "path":
 "sub-b490-1/sub-b490-1_ses-Sciatic 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.850936+00:00",
+"id":
+"urn:uuid:a31639b5-a693-4945-80e7-780b27aeae24",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.850936+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:7af946bf-ebf4-4543-9d9e-80a90ca98c8e",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -5153,7 +5963,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:15:46.781763Z",
+"2025-12-08T00:08:19.853056Z",
 "path":
 "sub-b490-1/sub-b490-1_ses-Sciatic 1H9 2_ophys.nwb",
 "size":
@@ -5199,6 +6009,8 @@
 ],
 "dateModified":
 "2025-11-24T15:18:17.677800-05:00",
+"datePublished":
+"2025-12-08T00:08:19.857533+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -5229,6 +6041,34 @@
 ],
 "path":
 "sub-b490-2/sub-b490-2_ses-Sciatic 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.857533+00:00",
+"id":
+"urn:uuid:24d923ef-f7db-48c2-b45e-f620e0f399ec",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.857533+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:a77ebd3f-5cc0-431e-96ca-e376d8e01b79",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -5345,7 +6185,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:18:20.058160Z",
+"2025-12-08T00:08:19.859678Z",
 "path":
 "sub-b490-2/sub-b490-2_ses-Sciatic 1H9 1_ophys.nwb",
 "size":
@@ -5391,6 +6231,8 @@
 ],
 "dateModified":
 "2025-11-24T15:20:14.372397-05:00",
+"datePublished":
+"2025-12-08T00:08:19.864244+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -5421,6 +6263,34 @@
 ],
 "path":
 "sub-b490-2/sub-b490-2_ses-Sciatic 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.864244+00:00",
+"id":
+"urn:uuid:9dc1f15a-46f1-43db-8381-841e7d20c87d",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.864244+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:ecb900e3-8053-49c0-8a02-7cfcfc583e30",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -5535,7 +6405,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:20:15.921035Z",
+"2025-12-08T00:08:19.866312Z",
 "path":
 "sub-b490-2/sub-b490-2_ses-Sciatic 1H9 2_ophys.nwb",
 "size":
@@ -5581,6 +6451,8 @@
 ],
 "dateModified":
 "2025-11-25T09:48:52.309592-05:00",
+"datePublished":
+"2025-12-08T00:08:19.983408+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -5611,6 +6483,34 @@
 ],
 "path":
 "sub-b490-3/sub-b490-3_ses-DRG 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.983408+00:00",
+"id":
+"urn:uuid:598ae80a-27fe-4e7b-8407-eb446b2368fe",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.983408+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:eab96094-4f87-4569-8306-3948cf5950e2",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -5727,7 +6627,7 @@
 ]
 },
 "modified":
-"2025-11-25T14:48:53.931335Z",
+"2025-12-08T00:08:19.986058Z",
 "path":
 "sub-b490-3/sub-b490-3_ses-DRG 1H9 1_ophys.nwb",
 "size":
@@ -5773,6 +6673,8 @@
 ],
 "dateModified":
 "2025-11-25T09:50:59.854617-05:00",
+"datePublished":
+"2025-12-08T00:08:19.991267+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -5803,6 +6705,34 @@
 ],
 "path":
 "sub-b490-3/sub-b490-3_ses-DRG 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.991267+00:00",
+"id":
+"urn:uuid:71bfeb18-afc3-453f-840c-c87ba2c8e121",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.991267+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:6d5453d2-480b-4414-b166-97a06f74ba33",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -5919,7 +6849,7 @@
 ]
 },
 "modified":
-"2025-11-25T14:51:01.351395Z",
+"2025-12-08T00:08:19.993728Z",
 "path":
 "sub-b490-3/sub-b490-3_ses-DRG 1H9 2_ophys.nwb",
 "size":
@@ -5965,6 +6895,8 @@
 ],
 "dateModified":
 "2025-11-24T15:25:08.308000-05:00",
+"datePublished":
+"2025-12-08T00:08:19.871516+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -5995,6 +6927,34 @@
 ],
 "path":
 "sub-b490-3/sub-b490-3_ses-Sciatic 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.871516+00:00",
+"id":
+"urn:uuid:bd37ac55-3cf5-4a56-bba3-38b137a8c88f",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.871516+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:f8e2100d-7664-4361-bde9-b8c1a81462ac",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -6111,7 +7071,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:25:09.860613Z",
+"2025-12-08T00:08:19.873808Z",
 "path":
 "sub-b490-3/sub-b490-3_ses-Sciatic 1H9 1_ophys.nwb",
 "size":
@@ -6157,6 +7117,8 @@
 ],
 "dateModified":
 "2025-11-24T15:27:35.206449-05:00",
+"datePublished":
+"2025-12-08T00:08:19.878518+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -6187,6 +7149,34 @@
 ],
 "path":
 "sub-b490-3/sub-b490-3_ses-Sciatic 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.878518+00:00",
+"id":
+"urn:uuid:9c160587-14f4-4131-bc66-dce588d5e910",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.878518+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:639f83e0-ef0e-471f-a62c-a5b500a734ee",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -6303,7 +7293,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:27:36.485065Z",
+"2025-12-08T00:08:19.880931Z",
 "path":
 "sub-b490-3/sub-b490-3_ses-Sciatic 1H9 2_ophys.nwb",
 "size":
@@ -6349,6 +7339,8 @@
 ],
 "dateModified":
 "2025-11-25T09:29:24.464358-05:00",
+"datePublished":
+"2025-12-08T00:08:19.953337+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -6379,6 +7371,34 @@
 ],
 "path":
 "sub-b522-3/sub-b522-3_ses-DRG 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.953337+00:00",
+"id":
+"urn:uuid:8d9adb90-3454-47f1-908e-e28335ce7b5e",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.953337+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:9451e18b-2469-487a-b8a0-60b1781a767f",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -6495,7 +7515,7 @@
 ]
 },
 "modified":
-"2025-11-25T14:29:26.236444Z",
+"2025-12-08T00:08:19.955637Z",
 "path":
 "sub-b522-3/sub-b522-3_ses-DRG 1H9 1_ophys.nwb",
 "size":
@@ -6541,6 +7561,8 @@
 ],
 "dateModified":
 "2025-11-25T09:31:37.942973-05:00",
+"datePublished":
+"2025-12-08T00:08:19.960358+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -6571,6 +7593,34 @@
 ],
 "path":
 "sub-b522-3/sub-b522-3_ses-DRG 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.960358+00:00",
+"id":
+"urn:uuid:9b7c4915-2e58-43fb-8fd4-c67bc9263936",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.960358+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:347f1232-aa28-4eb2-babb-f8f090425361",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -6687,7 +7737,7 @@
 ]
 },
 "modified":
-"2025-11-25T14:31:39.488855Z",
+"2025-12-08T00:08:19.962621Z",
 "path":
 "sub-b522-3/sub-b522-3_ses-DRG 1H9 2_ophys.nwb",
 "size":
@@ -6733,6 +7783,8 @@
 ],
 "dateModified":
 "2025-11-24T15:31:27.663268-05:00",
+"datePublished":
+"2025-12-08T00:08:19.886869+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -6763,6 +7815,34 @@
 ],
 "path":
 "sub-b522-3/sub-b522-3_ses-Sciatic 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.886869+00:00",
+"id":
+"urn:uuid:d2473ec5-41e4-4f98-9af6-d70f1dba1b4e",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.886869+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:e7a463f4-7d2d-4daa-986c-762417ffdbf8",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -6879,7 +7959,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:31:29.211704Z",
+"2025-12-08T00:08:19.889347Z",
 "path":
 "sub-b522-3/sub-b522-3_ses-Sciatic 1H9 1_ophys.nwb",
 "size":
@@ -6925,6 +8005,8 @@
 ],
 "dateModified":
 "2025-11-25T11:01:21.536649-05:00",
+"datePublished":
+"2025-12-08T00:08:20.062113+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -6955,6 +8037,34 @@
 ],
 "path":
 "sub-b522-3/sub-b522-3_ses-Sciatic 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.062113+00:00",
+"id":
+"urn:uuid:fcb94468-8054-4252-ab00-f934a5e2b31f",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.062113+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:9e82ccf3-f0ae-432c-a49a-5471387dcc9d",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -7069,7 +8179,7 @@
 ]
 },
 "modified":
-"2025-11-25T16:01:23.486279Z",
+"2025-12-08T00:08:20.064368Z",
 "path":
 "sub-b522-3/sub-b522-3_ses-Sciatic 1H9 2_ophys.nwb",
 "size":
@@ -7115,6 +8225,8 @@
 ],
 "dateModified":
 "2025-11-24T15:36:32.835788-05:00",
+"datePublished":
+"2025-12-08T00:08:19.894413+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -7145,6 +8257,34 @@
 ],
 "path":
 "sub-b534-0-/sub-b534-0-_ses-Sciatic 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.894413+00:00",
+"id":
+"urn:uuid:91baaa9f-6077-4840-8c86-058c673b05d6",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.894413+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:b2a78637-4870-46cd-80f8-813289dd65ca",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -7261,7 +8401,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:36:34.474703Z",
+"2025-12-08T00:08:19.896547Z",
 "path":
 "sub-b534-0-/sub-b534-0-_ses-Sciatic 1H9 1_ophys.nwb",
 "size":
@@ -7307,6 +8447,8 @@
 ],
 "dateModified":
 "2025-11-25T11:06:04.763007-05:00",
+"datePublished":
+"2025-12-08T00:08:20.069750+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -7337,6 +8479,34 @@
 ],
 "path":
 "sub-b535-0/sub-b535-0_ses-Sciatic 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.069750+00:00",
+"id":
+"urn:uuid:e665c972-b6e4-419d-9d00-8ce30b995e54",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.069750+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:c428a387-c5b0-4a9a-954a-442bdb2589fc",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -7453,7 +8623,7 @@
 ]
 },
 "modified":
-"2025-11-25T16:06:06.519786Z",
+"2025-12-08T00:08:20.072308Z",
 "path":
 "sub-b535-0/sub-b535-0_ses-Sciatic 1H9 1_ophys.nwb",
 "size":
@@ -7499,6 +8669,8 @@
 ],
 "dateModified":
 "2025-11-24T15:42:04.956165-05:00",
+"datePublished":
+"2025-12-08T00:08:19.901354+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -7529,6 +8701,34 @@
 ],
 "path":
 "sub-b535-0/sub-b535-0_ses-Sciatic 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.901354+00:00",
+"id":
+"urn:uuid:7aa69049-c4d1-463f-8080-433b19d33173",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.901354+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:c2d12d5b-87fe-479f-8b7f-a3f7205a0097",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -7645,7 +8845,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:42:06.267120Z",
+"2025-12-08T00:08:19.903473Z",
 "path":
 "sub-b535-0/sub-b535-0_ses-Sciatic 1H9 2_ophys.nwb",
 "size":
@@ -7691,6 +8891,8 @@
 ],
 "dateModified":
 "2025-11-25T11:30:29.726098-05:00",
+"datePublished":
+"2025-12-08T00:08:20.078605+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -7721,6 +8923,34 @@
 ],
 "path":
 "sub-b535-7/sub-b535-7_ses-Sural 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.078605+00:00",
+"id":
+"urn:uuid:c1f23ada-26f0-4392-9fc3-6cd128e48de9",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.078605+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:95b7c744-8e67-4ad1-848f-e15c696807c4",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -7837,7 +9067,7 @@
 ]
 },
 "modified":
-"2025-11-25T16:30:31.159641Z",
+"2025-12-08T00:08:20.081314Z",
 "path":
 "sub-b535-7/sub-b535-7_ses-Sural 1_ophys.nwb",
 "size":
@@ -7883,6 +9113,8 @@
 ],
 "dateModified":
 "2025-11-25T11:32:25.003178-05:00",
+"datePublished":
+"2025-12-08T00:08:20.088974+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -7913,6 +9145,34 @@
 ],
 "path":
 "sub-b535-7/sub-b535-7_ses-Sural 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.088974+00:00",
+"id":
+"urn:uuid:84855428-9b67-4328-82af-c7dc17c32b72",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.088974+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:5e2f3d61-aaf8-4d29-8e4e-9f665ea0d7ee",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -8029,7 +9289,7 @@
 ]
 },
 "modified":
-"2025-11-25T16:32:26.449143Z",
+"2025-12-08T00:08:20.091204Z",
 "path":
 "sub-b535-7/sub-b535-7_ses-Sural 2_ophys.nwb",
 "size":
@@ -8075,6 +9335,8 @@
 ],
 "dateModified":
 "2025-11-25T12:44:44.403966-05:00",
+"datePublished":
+"2025-12-08T00:08:20.185412+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -8105,6 +9367,34 @@
 ],
 "path":
 "sub-b539-0/sub-b539-0_ses-Sural 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.185412+00:00",
+"id":
+"urn:uuid:90109d63-e8c1-4f90-bf07-ad5ca2808a08",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.185412+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:cce625f2-b37e-4f22-bbc2-f78a8ff9f38d",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -8221,7 +9511,7 @@
 ]
 },
 "modified":
-"2025-11-25T17:44:45.582055Z",
+"2025-12-08T00:08:20.187748Z",
 "path":
 "sub-b539-0/sub-b539-0_ses-Sural 1_ophys.nwb",
 "size":
@@ -8267,6 +9557,8 @@
 ],
 "dateModified":
 "2025-11-25T12:46:33.876430-05:00",
+"datePublished":
+"2025-12-08T00:08:20.193133+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -8297,6 +9589,34 @@
 ],
 "path":
 "sub-b539-0/sub-b539-0_ses-Sural 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.193133+00:00",
+"id":
+"urn:uuid:266c85f3-e266-4fed-8eae-9d6486cf2a47",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.193133+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:a0d0d18a-aab8-4d8f-84c5-8daa6c49ac7a",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -8413,7 +9733,7 @@
 ]
 },
 "modified":
-"2025-11-25T17:46:35.335539Z",
+"2025-12-08T00:08:20.195644Z",
 "path":
 "sub-b539-0/sub-b539-0_ses-Sural 2_ophys.nwb",
 "size":
@@ -8459,6 +9779,8 @@
 ],
 "dateModified":
 "2025-11-25T12:53:08.143032-05:00",
+"datePublished":
+"2025-12-08T00:08:20.200738+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -8489,6 +9811,34 @@
 ],
 "path":
 "sub-b539-0/sub-b539-0_ses-Sural 3_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.200738+00:00",
+"id":
+"urn:uuid:8f49f18d-daa6-4e38-8c69-1a5e453dc5da",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.200738+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:a3cbac3a-2d9f-45c8-93d8-a42978d32fab",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -8605,7 +9955,7 @@
 ]
 },
 "modified":
-"2025-11-25T17:53:09.394298Z",
+"2025-12-08T00:08:20.203265Z",
 "path":
 "sub-b539-0/sub-b539-0_ses-Sural 3_ophys.nwb",
 "size":
@@ -8651,6 +10001,8 @@
 ],
 "dateModified":
 "2025-11-25T12:59:50.118330-05:00",
+"datePublished":
+"2025-12-08T00:08:20.209828+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -8681,6 +10033,34 @@
 ],
 "path":
 "sub-b539-1/sub-b539-1_ses-Sural 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.209828+00:00",
+"id":
+"urn:uuid:f4455adb-ee31-41f5-831b-14ca0e86ef59",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.209828+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:ffab9ee1-2b56-4176-9a95-973df3eec55e",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -8797,7 +10177,7 @@
 ]
 },
 "modified":
-"2025-11-25T17:59:51.448516Z",
+"2025-12-08T00:08:20.212365Z",
 "path":
 "sub-b539-1/sub-b539-1_ses-Sural 1_ophys.nwb",
 "size":
@@ -8843,6 +10223,8 @@
 ],
 "dateModified":
 "2025-11-25T13:01:49.656155-05:00",
+"datePublished":
+"2025-12-08T00:08:20.217250+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -8873,6 +10255,34 @@
 ],
 "path":
 "sub-b539-1/sub-b539-1_ses-Sural 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.217250+00:00",
+"id":
+"urn:uuid:8d0ea607-4ef1-461b-b054-f67a31248bdf",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.217250+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:a5d89e43-1412-4c2b-9c8e-6eb017ee579b",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -8989,7 +10399,7 @@
 ]
 },
 "modified":
-"2025-11-25T18:01:50.820635Z",
+"2025-12-08T00:08:20.219603Z",
 "path":
 "sub-b539-1/sub-b539-1_ses-Sural 2_ophys.nwb",
 "size":
@@ -9035,6 +10445,8 @@
 ],
 "dateModified":
 "2025-11-25T13:04:00.646460-05:00",
+"datePublished":
+"2025-12-08T00:08:20.226006+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -9065,6 +10477,34 @@
 ],
 "path":
 "sub-b539-1/sub-b539-1_ses-Sural 3_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.226006+00:00",
+"id":
+"urn:uuid:17c01ea8-0667-4927-b2f5-afcf73f01167",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.226006+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:8b1b114e-e014-4ae0-9982-da973a4ada29",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -9181,7 +10621,7 @@
 ]
 },
 "modified":
-"2025-11-25T18:04:01.993804Z",
+"2025-12-08T00:08:20.228289Z",
 "path":
 "sub-b539-1/sub-b539-1_ses-Sural 3_ophys.nwb",
 "size":
@@ -9227,6 +10667,8 @@
 ],
 "dateModified":
 "2025-11-25T12:07:03.553708-05:00",
+"datePublished":
+"2025-12-08T00:08:20.160919+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -9257,6 +10699,34 @@
 ],
 "path":
 "sub-b539-2/sub-b539-2_ses-Sural 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.160919+00:00",
+"id":
+"urn:uuid:5b61bd9e-6037-488b-a83c-a3e251a1cc18",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.160919+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:1aee7765-b2d7-4ed8-9576-eac3abab443d",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -9373,7 +10843,7 @@
 ]
 },
 "modified":
-"2025-11-25T17:07:04.925695Z",
+"2025-12-08T00:08:20.163182Z",
 "path":
 "sub-b539-2/sub-b539-2_ses-Sural 1_ophys.nwb",
 "size":
@@ -9419,6 +10889,8 @@
 ],
 "dateModified":
 "2025-11-25T12:08:35.169308-05:00",
+"datePublished":
+"2025-12-08T00:08:20.167953+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -9449,6 +10921,34 @@
 ],
 "path":
 "sub-b539-2/sub-b539-2_ses-Sural 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.167953+00:00",
+"id":
+"urn:uuid:f62fadfa-4b16-4799-82dc-d01fdc5e7d09",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.167953+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:83baaa1e-74ae-4993-b883-3e440e4e3fc0",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -9565,7 +11065,7 @@
 ]
 },
 "modified":
-"2025-11-25T17:08:36.587398Z",
+"2025-12-08T00:08:20.171747Z",
 "path":
 "sub-b539-2/sub-b539-2_ses-Sural 2_ophys.nwb",
 "size":
@@ -9611,6 +11111,8 @@
 ],
 "dateModified":
 "2025-11-25T12:10:48.559835-05:00",
+"datePublished":
+"2025-12-08T00:08:20.178083+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -9641,6 +11143,34 @@
 ],
 "path":
 "sub-b539-2/sub-b539-2_ses-Sural 3_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.178083+00:00",
+"id":
+"urn:uuid:a8fa4a66-da51-45e0-9df9-c82180e0fa35",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.178083+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:7f2ffb2b-1bd8-41c9-9515-35485c207810",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -9757,7 +11287,7 @@
 ]
 },
 "modified":
-"2025-11-25T17:10:50.076940Z",
+"2025-12-08T00:08:20.180290Z",
 "path":
 "sub-b539-2/sub-b539-2_ses-Sural 3_ophys.nwb",
 "size":
@@ -9803,6 +11333,8 @@
 ],
 "dateModified":
 "2025-11-25T13:33:03.674860-05:00",
+"datePublished":
+"2025-12-08T00:08:20.233842+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -9833,6 +11365,34 @@
 ],
 "path":
 "sub-b539-6/sub-b539-6_ses-Sural 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.233842+00:00",
+"id":
+"urn:uuid:7017c241-f199-4e95-a3f5-d4ca142cdd06",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.233842+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:e3953408-2f59-41b0-bba0-8574bdfc5719",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -9949,7 +11509,7 @@
 ]
 },
 "modified":
-"2025-11-25T18:33:04.907811Z",
+"2025-12-08T00:08:20.236173Z",
 "path":
 "sub-b539-6/sub-b539-6_ses-Sural 1_ophys.nwb",
 "size":
@@ -9988,6 +11548,8 @@
 ],
 "dateModified":
 "2025-11-25T13:35:34.222613-05:00",
+"datePublished":
+"2025-12-08T00:08:20.241278+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -10005,6 +11567,34 @@
 [],
 "path":
 "sub-b539-6/sub-b539-6_ses-Sural 2.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.241278+00:00",
+"id":
+"urn:uuid:09b7ee5e-f92a-4d7c-b4cd-3a48eaf83e14",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.241278+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:c49b16a4-8088-4064-9c98-3492a859eaa8",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -10102,7 +11692,7 @@
 ]
 },
 "modified":
-"2025-11-25T18:35:35.269281Z",
+"2025-12-08T00:08:20.243667Z",
 "path":
 "sub-b539-6/sub-b539-6_ses-Sural 2.nwb",
 "size":
@@ -10148,6 +11738,8 @@
 ],
 "dateModified":
 "2025-11-25T13:37:25.810097-05:00",
+"datePublished":
+"2025-12-08T00:08:20.253114+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -10178,6 +11770,34 @@
 ],
 "path":
 "sub-b539-6/sub-b539-6_ses-Sural 3_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.253114+00:00",
+"id":
+"urn:uuid:e3ef3aea-eaac-49b9-b8d9-c10d4ade56d3",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.253114+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:764c1bd0-7dfe-4e8a-af63-3fbf11cd7040",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -10292,7 +11912,7 @@
 ]
 },
 "modified":
-"2025-11-25T18:37:26.971969Z",
+"2025-12-08T00:08:20.255708Z",
 "path":
 "sub-b539-6/sub-b539-6_ses-Sural 3_ophys.nwb",
 "size":
@@ -10338,6 +11958,8 @@
 ],
 "dateModified":
 "2025-11-25T11:37:31.398362-05:00",
+"datePublished":
+"2025-12-08T00:08:20.096467+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -10368,6 +11990,34 @@
 ],
 "path":
 "sub-b545-0/sub-b545-0_ses-Sural 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.096467+00:00",
+"id":
+"urn:uuid:5435da0f-45a2-49f3-b363-3625310d833c",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.096467+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:9147c88e-fea1-4584-8061-a87838664c67",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -10484,7 +12134,7 @@
 ]
 },
 "modified":
-"2025-11-25T16:37:32.941351Z",
+"2025-12-08T00:08:20.098653Z",
 "path":
 "sub-b545-0/sub-b545-0_ses-Sural 1_ophys.nwb",
 "size":
@@ -10530,6 +12180,8 @@
 ],
 "dateModified":
 "2025-11-25T11:46:45.526659-05:00",
+"datePublished":
+"2025-12-08T00:08:20.103407+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -10560,6 +12212,34 @@
 ],
 "path":
 "sub-b545-0/sub-b545-0_ses-Sural 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.103407+00:00",
+"id":
+"urn:uuid:b33c5787-d0d0-4c14-b244-87b3b7ac028c",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.103407+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:0000edcd-689d-4557-993b-fd22a5242b69",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -10676,7 +12356,7 @@
 ]
 },
 "modified":
-"2025-11-25T16:46:46.786966Z",
+"2025-12-08T00:08:20.105732Z",
 "path":
 "sub-b545-0/sub-b545-0_ses-Sural 2_ophys.nwb",
 "size":
@@ -10722,6 +12402,8 @@
 ],
 "dateModified":
 "2025-11-25T11:48:19.229925-05:00",
+"datePublished":
+"2025-12-08T00:08:20.110653+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -10752,6 +12434,34 @@
 ],
 "path":
 "sub-b545-0/sub-b545-0_ses-Sural 3_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.110653+00:00",
+"id":
+"urn:uuid:217647b9-afd8-4318-b70a-555cd121215f",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.110653+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:3fc32ad0-d399-4917-ba9e-7f42035494d5",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -10868,7 +12578,7 @@
 ]
 },
 "modified":
-"2025-11-25T16:48:20.753177Z",
+"2025-12-08T00:08:20.112915Z",
 "path":
 "sub-b545-0/sub-b545-0_ses-Sural 3_ophys.nwb",
 "size":
@@ -10914,6 +12624,8 @@
 ],
 "dateModified":
 "2025-12-07T15:19:37.639173-05:00",
+"datePublished":
+"2025-12-08T00:08:20.416772+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -10944,6 +12656,34 @@
 ],
 "path":
 "sub-b548-2/sub-b548-2_ses-DRG 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.416772+00:00",
+"id":
+"urn:uuid:86fb12c9-a874-41df-8595-1a0b100e0a03",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.416772+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:5793abdb-7bff-4d25-8a65-9d320a7c50bb",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -11058,7 +12798,7 @@
 ]
 },
 "modified":
-"2025-12-07T20:19:46.647473Z",
+"2025-12-08T00:08:20.419305Z",
 "path":
 "sub-b548-2/sub-b548-2_ses-DRG 1H9 1_ophys.nwb",
 "size":
@@ -11104,6 +12844,8 @@
 ],
 "dateModified":
 "2025-12-07T15:21:17.824133-05:00",
+"datePublished":
+"2025-12-08T00:08:20.426075+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -11134,6 +12876,34 @@
 ],
 "path":
 "sub-b548-2/sub-b548-2_ses-DRG 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.426075+00:00",
+"id":
+"urn:uuid:c49c6e4b-278a-445f-9378-57681e39c1d8",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.426075+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:c41294b9-d5a2-4a6a-972e-8e0aefe53c11",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -11248,7 +13018,7 @@
 ]
 },
 "modified":
-"2025-12-07T20:21:26.818409Z",
+"2025-12-08T00:08:20.428650Z",
 "path":
 "sub-b548-2/sub-b548-2_ses-DRG 1H9 2_ophys.nwb",
 "size":
@@ -11294,6 +13064,8 @@
 ],
 "dateModified":
 "2025-11-24T15:44:37.897196-05:00",
+"datePublished":
+"2025-12-08T00:08:19.908598+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -11324,6 +13096,34 @@
 ],
 "path":
 "sub-b553-1/sub-b553-1_ses-Sciatic 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.908598+00:00",
+"id":
+"urn:uuid:6d1bf39b-8512-47e2-a762-1967a3694a60",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.908598+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:3946fa7c-2789-49ee-8d76-d392041d1a1f",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -11440,7 +13240,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:44:39.243207Z",
+"2025-12-08T00:08:19.911501Z",
 "path":
 "sub-b553-1/sub-b553-1_ses-Sciatic 1H9 1_ophys.nwb",
 "size":
@@ -11486,6 +13286,8 @@
 ],
 "dateModified":
 "2025-11-24T15:47:00.777563-05:00",
+"datePublished":
+"2025-12-08T00:08:19.916655+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -11516,6 +13318,34 @@
 ],
 "path":
 "sub-b553-1/sub-b553-1_ses-Sciatic 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.916655+00:00",
+"id":
+"urn:uuid:c65c207a-861f-4e6d-9863-ac19148ca0de",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.916655+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:0c9e2d74-b298-4323-8af8-da73306e83cf",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -11632,7 +13462,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:47:02.328121Z",
+"2025-12-08T00:08:19.918758Z",
 "path":
 "sub-b553-1/sub-b553-1_ses-Sciatic 1H9 2_ophys.nwb",
 "size":
@@ -11678,6 +13508,8 @@
 ],
 "dateModified":
 "2025-11-26T10:47:18.665584-05:00",
+"datePublished":
+"2025-12-08T00:08:20.288549+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -11708,6 +13540,34 @@
 ],
 "path":
 "sub-b596-0/sub-b596-0_ses-SpinalCord 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.288549+00:00",
+"id":
+"urn:uuid:8a7f531e-fa88-4f16-a8f2-e9401736cf4f",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.288549+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:f655fb5e-3921-448b-bd42-ba7684945b51",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -11824,7 +13684,7 @@
 ]
 },
 "modified":
-"2025-11-26T15:47:30.116436Z",
+"2025-12-08T00:08:20.291051Z",
 "path":
 "sub-b596-0/sub-b596-0_ses-SpinalCord 1H9 1_ophys.nwb",
 "size":
@@ -11870,6 +13730,8 @@
 ],
 "dateModified":
 "2025-11-25T10:17:37.488349-05:00",
+"datePublished":
+"2025-12-08T00:08:19.998846+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -11900,6 +13762,34 @@
 ],
 "path":
 "sub-b596-1-/sub-b596-1-_ses-DRG 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.998846+00:00",
+"id":
+"urn:uuid:05709572-48ba-4718-b9ad-9efd6ba8eb7b",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.998846+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:23e125df-bcf6-4309-831e-a62c544e2902",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -12016,7 +13906,7 @@
 ]
 },
 "modified":
-"2025-11-25T15:17:38.966893Z",
+"2025-12-08T00:08:20.001366Z",
 "path":
 "sub-b596-1-/sub-b596-1-_ses-DRG 1H9 2_ophys.nwb",
 "size":
@@ -12062,6 +13952,8 @@
 ],
 "dateModified":
 "2025-11-24T15:51:36.405731-05:00",
+"datePublished":
+"2025-12-08T00:08:19.923488+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -12092,6 +13984,34 @@
 ],
 "path":
 "sub-b596-1-/sub-b596-1-_ses-Sciatic 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.923488+00:00",
+"id":
+"urn:uuid:912baa22-f125-45dd-aae9-6312cbb56b27",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.923488+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:67e270cf-d9b3-42ec-83be-2ba691ee8b27",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -12208,7 +14128,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:51:37.734432Z",
+"2025-12-08T00:08:19.925836Z",
 "path":
 "sub-b596-1-/sub-b596-1-_ses-Sciatic 1H9 1_ophys.nwb",
 "size":
@@ -12254,6 +14174,8 @@
 ],
 "dateModified":
 "2025-11-24T15:53:47.528842-05:00",
+"datePublished":
+"2025-12-08T00:08:19.935801+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -12284,6 +14206,34 @@
 ],
 "path":
 "sub-b596-1-/sub-b596-1-_ses-Sciatic 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:19.935801+00:00",
+"id":
+"urn:uuid:772276ef-1f02-4dba-8beb-cb4ab7c54aa1",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:19.935801+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:3694f33d-821a-42ea-bd1d-06963cd09ff1",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -12400,7 +14350,7 @@
 ]
 },
 "modified":
-"2025-11-24T20:53:48.926314Z",
+"2025-12-08T00:08:19.938019Z",
 "path":
 "sub-b596-1-/sub-b596-1-_ses-Sciatic 1H9 2_ophys.nwb",
 "size":
@@ -12446,6 +14396,8 @@
 ],
 "dateModified":
 "2025-11-25T10:38:32.766674-05:00",
+"datePublished":
+"2025-12-08T00:08:20.029980+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -12476,6 +14428,34 @@
 ],
 "path":
 "sub-b596-1/sub-b596-1_ses-DRG 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.029980+00:00",
+"id":
+"urn:uuid:114fc0b1-4876-4b80-931f-04d24b764303",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.029980+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:aa46b112-0a1f-4fd6-acbd-da56489c1d6e",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -12592,7 +14572,7 @@
 ]
 },
 "modified":
-"2025-11-25T15:38:34.370000Z",
+"2025-12-08T00:08:20.032453Z",
 "path":
 "sub-b596-1/sub-b596-1_ses-DRG 1H9 1_ophys.nwb",
 "size":
@@ -12638,6 +14618,8 @@
 ],
 "dateModified":
 "2025-11-26T09:57:54.961235-05:00",
+"datePublished":
+"2025-12-08T00:08:20.261024+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -12668,6 +14650,34 @@
 ],
 "path":
 "sub-b596-6/sub-b596-6_ses-SpinalCord 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.261024+00:00",
+"id":
+"urn:uuid:a8fedb7d-cb9f-4fe5-8e73-ecadfb163bd4",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.261024+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:5b97251b-746f-4040-ac9e-57012e9c7f94",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -12784,7 +14794,7 @@
 ]
 },
 "modified":
-"2025-11-26T14:58:01.310932Z",
+"2025-12-08T00:08:20.263767Z",
 "path":
 "sub-b596-6/sub-b596-6_ses-SpinalCord 1H9 1_ophys.nwb",
 "size":
@@ -12830,6 +14840,8 @@
 ],
 "dateModified":
 "2025-11-25T10:21:39.170936-05:00",
+"datePublished":
+"2025-12-08T00:08:20.006917+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -12860,6 +14872,34 @@
 ],
 "path":
 "sub-b596-7-/sub-b596-7-_ses-DRG 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.006917+00:00",
+"id":
+"urn:uuid:c050e996-5586-40e3-b0f5-6d1d0f5ed94a",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.006917+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:7ad22a60-dc7e-49b2-940c-9f6b60ab562e",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -12976,7 +15016,7 @@
 ]
 },
 "modified":
-"2025-11-25T15:21:40.972038Z",
+"2025-12-08T00:08:20.009341Z",
 "path":
 "sub-b596-7-/sub-b596-7-_ses-DRG 1H9 1_ophys.nwb",
 "size":
@@ -13022,6 +15062,8 @@
 ],
 "dateModified":
 "2025-11-25T10:24:16.015150-05:00",
+"datePublished":
+"2025-12-08T00:08:20.014783+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -13052,6 +15094,34 @@
 ],
 "path":
 "sub-b596-7-/sub-b596-7-_ses-DRG 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.014783+00:00",
+"id":
+"urn:uuid:4cdf9f5b-0fe3-43f3-8b22-c9031d1a73ac",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.014783+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:773c930e-4365-42a7-80df-83ff86f8f72a",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -13168,7 +15238,7 @@
 ]
 },
 "modified":
-"2025-11-25T15:24:17.546740Z",
+"2025-12-08T00:08:20.017335Z",
 "path":
 "sub-b596-7-/sub-b596-7-_ses-DRG 1H9 2_ophys.nwb",
 "size":
@@ -13214,6 +15284,8 @@
 ],
 "dateModified":
 "2025-11-26T11:18:34.756973-05:00",
+"datePublished":
+"2025-12-08T00:08:20.308762+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -13244,6 +15316,34 @@
 ],
 "path":
 "sub-b596-7/sub-b596-7_ses-SpinalCord 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.308762+00:00",
+"id":
+"urn:uuid:6868d809-f2c7-4afd-b5b6-8830a1b61051",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.308762+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:2a55448a-2412-4738-97f0-eab213d2bb51",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -13360,7 +15460,7 @@
 ]
 },
 "modified":
-"2025-11-26T16:18:45.977616Z",
+"2025-12-08T00:08:20.311015Z",
 "path":
 "sub-b596-7/sub-b596-7_ses-SpinalCord 1H9 1_ophys.nwb",
 "size":
@@ -13406,6 +15506,8 @@
 ],
 "dateModified":
 "2025-11-25T12:00:01.918156-05:00",
+"datePublished":
+"2025-12-08T00:08:20.139295+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -13436,6 +15538,34 @@
 ],
 "path":
 "sub-b597-4/sub-b597-4_ses-Sural 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.139295+00:00",
+"id":
+"urn:uuid:0cb8d9bd-3814-4a8a-850b-245c58983369",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.139295+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:25530b41-5bf2-4c7e-a026-da47e2146113",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -13552,7 +15682,7 @@
 ]
 },
 "modified":
-"2025-11-25T17:00:03.946758Z",
+"2025-12-08T00:08:20.141737Z",
 "path":
 "sub-b597-4/sub-b597-4_ses-Sural 1_ophys.nwb",
 "size":
@@ -13598,6 +15728,8 @@
 ],
 "dateModified":
 "2025-11-25T12:01:41.087451-05:00",
+"datePublished":
+"2025-12-08T00:08:20.146662+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -13628,6 +15760,34 @@
 ],
 "path":
 "sub-b597-4/sub-b597-4_ses-Sural 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.146662+00:00",
+"id":
+"urn:uuid:023edfa7-f8f4-41a0-846f-a472598399d1",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.146662+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:49e9f6ca-f920-4891-8b84-ea34e8519ab6",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -13744,7 +15904,7 @@
 ]
 },
 "modified":
-"2025-11-25T17:01:42.374571Z",
+"2025-12-08T00:08:20.148792Z",
 "path":
 "sub-b597-4/sub-b597-4_ses-Sural 2_ophys.nwb",
 "size":
@@ -13790,6 +15950,8 @@
 ],
 "dateModified":
 "2025-11-25T12:03:21.574862-05:00",
+"datePublished":
+"2025-12-08T00:08:20.153479+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -13820,6 +15982,34 @@
 ],
 "path":
 "sub-b597-4/sub-b597-4_ses-Sural 3_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.153479+00:00",
+"id":
+"urn:uuid:be9f4339-0469-4d7f-b761-adb07e2dd34d",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.153479+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:9f189173-704a-4d11-a807-d7ab8f266f77",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -13936,7 +16126,7 @@
 ]
 },
 "modified":
-"2025-11-25T17:03:22.853588Z",
+"2025-12-08T00:08:20.155619Z",
 "path":
 "sub-b597-4/sub-b597-4_ses-Sural 3_ophys.nwb",
 "size":
@@ -13982,6 +16172,8 @@
 ],
 "dateModified":
 "2025-11-25T10:29:59.291615-05:00",
+"datePublished":
+"2025-12-08T00:08:20.022499+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -14012,6 +16204,34 @@
 ],
 "path":
 "sub-b597-6/sub-b597-6_ses-DRG 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.022499+00:00",
+"id":
+"urn:uuid:aff93806-4d80-4837-802c-66c2e8331189",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.022499+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:c177b122-da46-44e7-9eb5-c52236e364ab",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -14128,7 +16348,7 @@
 ]
 },
 "modified":
-"2025-11-25T15:30:00.655019Z",
+"2025-12-08T00:08:20.024793Z",
 "path":
 "sub-b597-6/sub-b597-6_ses-DRG 1H9 1_ophys.nwb",
 "size":
@@ -14174,6 +16394,8 @@
 ],
 "dateModified":
 "2025-11-25T10:54:49.476913-05:00",
+"datePublished":
+"2025-12-08T00:08:20.037661+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -14204,6 +16426,34 @@
 ],
 "path":
 "sub-b597-6/sub-b597-6_ses-DRG 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.037661+00:00",
+"id":
+"urn:uuid:13adfd78-a417-4093-85c8-b1fcbd374d86",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.037661+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:8d151164-d150-45fd-b88f-4705a1c06d4d",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -14320,7 +16570,7 @@
 ]
 },
 "modified":
-"2025-11-25T15:54:51.043416Z",
+"2025-12-08T00:08:20.040088Z",
 "path":
 "sub-b597-6/sub-b597-6_ses-DRG 1H9 2_ophys.nwb",
 "size":
@@ -14366,6 +16616,8 @@
 ],
 "dateModified":
 "2025-11-26T10:37:02.138996-05:00",
+"datePublished":
+"2025-12-08T00:08:20.279632+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -14396,6 +16648,34 @@
 ],
 "path":
 "sub-b597-6/sub-b597-6_ses-SpinalCord 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.279632+00:00",
+"id":
+"urn:uuid:f41beee7-4c21-422b-a7ae-7d0f41263582",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.279632+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:cc55572c-0adc-4fbf-94c2-801ccc72a770",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -14512,7 +16792,7 @@
 ]
 },
 "modified":
-"2025-11-26T15:37:13.257296Z",
+"2025-12-08T00:08:20.282098Z",
 "path":
 "sub-b597-6/sub-b597-6_ses-SpinalCord 1H9 1_ophys.nwb",
 "size":
@@ -14558,6 +16838,8 @@
 ],
 "dateModified":
 "2025-12-07T15:38:30.572450-05:00",
+"datePublished":
+"2025-12-08T00:08:20.454652+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -14588,6 +16870,34 @@
 ],
 "path":
 "sub-b601-1/sub-b601-1_ses-DRG 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.454652+00:00",
+"id":
+"urn:uuid:3816e348-a8ea-4872-a079-2146cdaed00b",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.454652+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:4e1fcee4-ca43-4d05-911f-e75124216b75",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -14702,7 +17012,7 @@
 ]
 },
 "modified":
-"2025-12-07T20:38:39.472513Z",
+"2025-12-08T00:08:20.457251Z",
 "path":
 "sub-b601-1/sub-b601-1_ses-DRG 1H9 1_ophys.nwb",
 "size":
@@ -14748,6 +17058,8 @@
 ],
 "dateModified":
 "2025-12-07T15:45:08.595109-05:00",
+"datePublished":
+"2025-12-08T00:08:20.464034+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -14778,6 +17090,34 @@
 ],
 "path":
 "sub-b601-1/sub-b601-1_ses-DRG 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.464034+00:00",
+"id":
+"urn:uuid:20b7d35a-9c90-4242-8eba-13d83b714270",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.464034+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:25a8bbb5-a0b9-4550-a03e-a07dbab29e78",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -14892,7 +17232,7 @@
 ]
 },
 "modified":
-"2025-12-07T20:45:17.211720Z",
+"2025-12-08T00:08:20.466844Z",
 "path":
 "sub-b601-1/sub-b601-1_ses-DRG 1H9 2_ophys.nwb",
 "size":
@@ -14938,6 +17278,8 @@
 ],
 "dateModified":
 "2025-12-07T13:56:10.488805-05:00",
+"datePublished":
+"2025-12-08T00:08:20.387566+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -14968,6 +17310,34 @@
 ],
 "path":
 "sub-b661-10/sub-b661-10_ses-DRG 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.387566+00:00",
+"id":
+"urn:uuid:2c9e2ec5-f595-4e5e-886e-7638350a4720",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.387566+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:a26d4d10-102b-4031-bb77-7d203e16a9f8",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -15082,7 +17452,7 @@
 ]
 },
 "modified":
-"2025-12-07T18:56:17.839590Z",
+"2025-12-08T00:08:20.389819Z",
 "path":
 "sub-b661-10/sub-b661-10_ses-DRG 1H9 1_ophys.nwb",
 "size":
@@ -15128,6 +17498,8 @@
 ],
 "dateModified":
 "2025-12-07T13:58:14.015983-05:00",
+"datePublished":
+"2025-12-08T00:08:20.394487+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -15158,6 +17530,34 @@
 ],
 "path":
 "sub-b661-10/sub-b661-10_ses-DRG 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.394487+00:00",
+"id":
+"urn:uuid:e7bdc176-2b63-4316-9304-dc1e6e9d2d29",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.394487+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:335b9d5c-2acb-494d-a331-12d77bfa2ac9",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -15272,7 +17672,7 @@
 ]
 },
 "modified":
-"2025-12-07T18:58:21.876608Z",
+"2025-12-08T00:08:20.396762Z",
 "path":
 "sub-b661-10/sub-b661-10_ses-DRG 1H9 2_ophys.nwb",
 "size":
@@ -15318,6 +17718,8 @@
 ],
 "dateModified":
 "2025-12-07T13:44:35.351665-05:00",
+"datePublished":
+"2025-12-08T00:08:20.372606+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -15348,6 +17750,34 @@
 ],
 "path":
 "sub-b707-4/sub-b707-4_ses-DRG 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.372606+00:00",
+"id":
+"urn:uuid:116a8314-4aed-49ab-b5fe-84069ac27d39",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.372606+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:9e3e6360-4837-4363-b305-8bee44cd49f3",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -15462,7 +17892,7 @@
 ]
 },
 "modified":
-"2025-12-07T18:44:43.224141Z",
+"2025-12-08T00:08:20.374904Z",
 "path":
 "sub-b707-4/sub-b707-4_ses-DRG 1H9 1_ophys.nwb",
 "size":
@@ -15508,6 +17938,8 @@
 ],
 "dateModified":
 "2025-12-07T13:47:20.774575-05:00",
+"datePublished":
+"2025-12-08T00:08:20.380219+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -15538,6 +17970,34 @@
 ],
 "path":
 "sub-b707-4/sub-b707-4_ses-DRG 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.380219+00:00",
+"id":
+"urn:uuid:5bb6ad97-88b0-44da-a193-d2d689e23dc5",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.380219+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:71a3b518-e71b-4dc0-a021-a70020b0c74b",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -15652,7 +18112,7 @@
 ]
 },
 "modified":
-"2025-12-07T18:47:25.197924Z",
+"2025-12-08T00:08:20.382543Z",
 "path":
 "sub-b707-4/sub-b707-4_ses-DRG 1H9 2_ophys.nwb",
 "size":
@@ -15698,6 +18158,8 @@
 ],
 "dateModified":
 "2025-12-07T15:11:14.449696-05:00",
+"datePublished":
+"2025-12-08T00:08:20.401607+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -15728,6 +18190,34 @@
 ],
 "path":
 "sub-b732-0/sub-b732-0_ses-DRG 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.401607+00:00",
+"id":
+"urn:uuid:2db81df6-72cd-4dcf-88d8-e5872eedff19",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.401607+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:b466b16f-4c9b-4d41-bb3e-54ed8df5e0fb",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -15842,7 +18332,7 @@
 ]
 },
 "modified":
-"2025-12-07T20:11:25.513013Z",
+"2025-12-08T00:08:20.404048Z",
 "path":
 "sub-b732-0/sub-b732-0_ses-DRG 1H9 1_ophys.nwb",
 "size":
@@ -15888,6 +18378,8 @@
 ],
 "dateModified":
 "2025-12-07T15:13:52.576072-05:00",
+"datePublished":
+"2025-12-08T00:08:20.409385+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -15918,6 +18410,34 @@
 ],
 "path":
 "sub-b732-0/sub-b732-0_ses-DRG 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.409385+00:00",
+"id":
+"urn:uuid:380b8b5c-449a-407f-9754-200d5c1cc189",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.409385+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:365b01eb-3751-483e-bb68-d4b3050e9ca7",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -16032,7 +18552,7 @@
 ]
 },
 "modified":
-"2025-12-07T20:14:00.841793Z",
+"2025-12-08T00:08:20.411845Z",
 "path":
 "sub-b732-0/sub-b732-0_ses-DRG 1H9 2_ophys.nwb",
 "size":
@@ -16078,6 +18598,8 @@
 ],
 "dateModified":
 "2025-12-07T15:25:40.760336-05:00",
+"datePublished":
+"2025-12-08T00:08:20.436213+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -16108,6 +18630,34 @@
 ],
 "path":
 "sub-b732-2/sub-b732-2_ses-DRG 1H9 1_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.436213+00:00",
+"id":
+"urn:uuid:a7d98f31-3545-4a9e-8609-af561443cab5",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.436213+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:ab6cb55d-53c4-47c3-98ef-cad57cf4f33f",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -16222,7 +18772,7 @@
 ]
 },
 "modified":
-"2025-12-07T20:25:50.782638Z",
+"2025-12-08T00:08:20.438523Z",
 "path":
 "sub-b732-2/sub-b732-2_ses-DRG 1H9 1_ophys.nwb",
 "size":
@@ -16268,6 +18818,8 @@
 ],
 "dateModified":
 "2025-12-07T15:28:17.487093-05:00",
+"datePublished":
+"2025-12-08T00:08:20.446269+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -16298,6 +18850,34 @@
 ],
 "path":
 "sub-b732-2/sub-b732-2_ses-DRG 1H9 2_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-12-08T00:08:20.446269+00:00",
+"id":
+"urn:uuid:4d2fe324-08ff-418e-832d-2e151faaed2f",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-12-08T00:08:20.446269+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:d050fddc-c297-498d-a47a-6faf31182b8b",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -16412,7 +18992,7 @@
 ]
 },
 "modified":
-"2025-12-07T20:28:31.640128Z",
+"2025-12-08T00:08:20.448975Z",
 "path":
 "sub-b732-2/sub-b732-2_ses-DRG 1H9 2_ophys.nwb",
 "size":

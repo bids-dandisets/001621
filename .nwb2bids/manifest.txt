@@ -1,3 +1,4 @@
 dandiset.yaml
 dataset_description.json
 derivatives/dataset_description.json
+sub-Western Blots/ecephys/sub-Western Blots_ecephys.nwb

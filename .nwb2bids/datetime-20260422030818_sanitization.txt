@@ -1,0 +1,1 @@
+{"sanitization_config":{"sub_labels":true,"ses_labels":true},"sanitization_file_path":"/data/dandi/bids-dandisets/work/001621/.nwb2bids/datetime-20260422030818_sanitization.txt","original_participant_id":"Western Blots","original_session_id":"CreValidation","sanitized_participant_id":"Western+Blots","sanitized_session_id":"CreValidation"}
